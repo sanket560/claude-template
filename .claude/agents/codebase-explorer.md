@@ -2,7 +2,7 @@
 name: codebase-explorer
 description: Map an unfamiliar area of the repo and report the entry points, data flow, and risks. Use when the task starts in a new folder or feature area.
 tools: Read, Grep, Glob
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 <!-- One line: who this agent is and what it must never do. -->

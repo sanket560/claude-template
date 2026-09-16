@@ -2,7 +2,7 @@
 name: test-fixer
 description: Run failing tests and fix the real cause without weakening the suite. Use when a bug is showing up in automated checks or a flaky test needs root-cause correction.
 tools: Read, Grep, Glob, Bash
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 <!-- One line: who this agent is and what it must never do. -->
