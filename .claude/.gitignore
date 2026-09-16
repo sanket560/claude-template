@@ -1,0 +1,5 @@
+# Personal, machine-specific settings — never committed
+settings.local.json
+
+# Runtime hook output
+logs/
