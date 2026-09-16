@@ -2,7 +2,7 @@
 name: code-reviewer
 description: Review the working diff against this repo's standards and likely failure points. Use when you want a read-only sanity check before merge or signoff.
 tools: Read, Grep, Glob
-model: 
+model: claude-sonnet-4-20250514
 ---
 
 <!-- One line: who this agent is and what it must never do. -->
